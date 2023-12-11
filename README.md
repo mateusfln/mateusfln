@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Charger](https://charger.dayback.com.br)
 
-- 🌱 I’m currently learning **Docker and PostMan**
+- 🌱 I’m currently learning **PHPUnit with Laravel and Jest**
 
 - 👨‍💻 All of my projects are available at [github.com/mateusfln](github.com/mateusfln)
 
