@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Mateus Nunes</h1>
 <h3 align="center">A passionate full-stack dev working for a job!</h3>
 
-- 🔭 I’m currently working on [Charger](https://charger.dayback.com.br)
+- 🔭 I’m currently working on [Codefuse.com](https://codefuse.com.br)
 
-- 🌱 I’m currently learning **PHPUnit with Laravel and Jest**
+- 🌱 I’m currently learning **CakePHP && PHP**
 
 - 👨‍💻 All of my projects are available at [github.com/mateusfln](github.com/mateusfln)
 
@@ -13,7 +13,7 @@
 
 - 📄 Know about my experiences [https://docs.google.com/document/d/1237mzefVlFBnwmAcBsiMeBLS2sLNb3l01MDcktGG4Lk/edit?usp=sharing](https://docs.google.com/document/d/1237mzefVlFBnwmAcBsiMeBLS2sLNb3l01MDcktGG4Lk/edit?usp=sharing)
 
-- ⚡ Fun fact **I love to be happy!**
+- ⚡ Fun fact **I love to be happy and make other people happy too!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
