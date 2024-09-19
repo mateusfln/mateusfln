@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Mateus Nunes</h1>
 <h3 align="center">A passionate full-stack dev working for a job!</h3>
 
-- 🔭 I’m currently working on [Codefuse.com](https://codefuse.com.br)
+- 🔭 I’m currently working on [Essentia Group](https://essentiagroup.global)
 
-- 🌱 I’m currently learning **CakePHP && PHP**
+- 🌱 I’m currently learning **Zend Framework 2 && Design Patterns**
 
 - 👨‍💻 All of my projects are available at [github.com/mateusfln](github.com/mateusfln)
 
-- 💬 Ask me about **react, laravel and TailwindCSS**
+- 💬 Ask me about **PHP, Mysql and Git**
 
 - 📫 How to reach me **mateusfln@gmail.com**
 
