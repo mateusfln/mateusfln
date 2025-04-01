@@ -3,7 +3,7 @@
 ###
 
 <div align="center">
-  <a href="mateusfln@gmail.com" target="_blank">
+  <a href="mailto:mateusfln@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=Entre%20em%20contato&color=D14836&logoColor=grey&labelColor=ffffff&style=for-the-badge" height="40" alt="gmail logo"  />
   </a>
   <a href="https://linkedin.com/in/mateusfln" target="_blank">
